@@ -1,0 +1,14 @@
+.card {
+  width: 18rem;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  position:absolute;
+  left: 0;
+  
+}
+
+.card-img-top {
+  background: blue;
+  object-fit: cover;
+}
+
